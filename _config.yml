@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "ASAD Razzaq / Profile"
+title                    : "ASAD Raz/ Profile"
 title_separator          : "-"
 name                     : &name "asad"
 description              : &description "personal description"
